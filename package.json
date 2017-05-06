@@ -2,8 +2,9 @@
     "name": "elmx",
     "displayName": "elmx",
     "description": "Syntax highlighting for the Elm language extended with embedded HTML (elmx)",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "publisher": "realazy",
+    "repository": "https://github.com/cxa/vscode-elmx.git",
     "engines": {
         "vscode": "^1.12.0"
     },

@@ -2,7 +2,7 @@
 
 Syntax highlighting for the Elm language extended with embedded HTML (elmx).
 
-\!\[ScreenShot\]\(ScreenShot.png\)
+![ScreenShot](ScreenShot.png)
 
 ## Credits
 
